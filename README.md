@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rabia
+# Hi there 🙌 I'm Rabia
 
 I'm a Software Engineering graduate focused on building clean, responsive, and user-centered web applications.
 
@@ -8,10 +8,7 @@ I'm a Software Engineering graduate focused on building clean, responsive, and u
 -  Currently a Frontend Intern at Datasoft
 
 ## 🛠️ Tech Stack
-- React
-- JavaScript
-- Python
-- REST APIs
+React • JavaScript • Python • REST APIs
 
 ## 📫 Connect with me
 - LinkedIn: (https://www.linkedin.com/in/rabiacorte/)
