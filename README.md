@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Rabia
 
-<!--
-**rabiacrt/rabiacrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate focused on building clean, responsive, and user-centered web applications.
 
-Here are some ideas to get you started:
+##  About Me
+-  I work with React, Python, and JavaScript
+-  Interested in Frontend & Full-Stack Development
+-  Currently a Frontend Intern at Datasoft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- Python
+- REST APIs
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/rabiacorte/)
