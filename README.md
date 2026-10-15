@@ -1,4 +1,3 @@
-# Rabia Corte
 **Software Engineer**
 
 Adaptable Software Engineering graduate passionate about building reliable software solutions across different platforms—from responsive user interfaces to data-driven and AI-integrated systems. Skilled in **TypeScript, React, Python, and JavaScript**, with hands-on experience in **API integration and deep learning concepts**. Currently gaining professional industry experience at Datasoft.
